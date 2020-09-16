@@ -1,5 +1,5 @@
-# ckweb-web
-Repositorio para la página http://ckweb.gov.co/
+# TiempoGranular
+http://tiempogranular.radiolibre.cc
 
 To run:
 - install nodejs
