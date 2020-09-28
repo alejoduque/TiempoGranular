@@ -1,6 +1,9 @@
-[<img src="https://github.com/alejoduque/TiempoGranular/blob/master/logo/tg_logo.png">](href=http://tiempogranular.radiolibre.cc)
 
-**Polución lumínica, del ruido y el aire**
+
+[![**Polución lumínica, del ruido y el aire**](https://github.com/alejoduque/TiempoGranular/blob/master/logo/tg_logo.png)](http://tiempogranular.radiolibre.cc)
+
+
+
 
 ¿Cómo suena la noche contrastada al dia? Este proyecto pretende
 convertir el espacio del Museo en un instrumento científico
