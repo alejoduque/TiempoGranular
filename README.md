@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/alejoduque/TiempoGranular/master/tg_logo.png?token=AAACXZMGZH2HPXASPKAVFMK7OILFU" /> <br>
+<img src="https://raw.githubusercontent.com/alejoduque/TiempoGranular/master/tg_logo.png" /> <br>
 :::::<a href=http://tiempogranular.radiolibre.cc> T I E M P O _ G R A N U L A R _</a>
 
 
