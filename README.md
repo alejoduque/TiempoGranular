@@ -3,9 +3,7 @@
 [![**Polución lumínica, del ruido y el aire**](https://github.com/alejoduque/TiempoGranular/blob/master/logo/tg_logo.png)](http://tiempogranular.radiolibre.cc)
 
 
-
-
-¿Cómo suena la noche contrastada al dia? Este proyecto pretende
+**¿Cómo suena la noche contrastada al dia? Este proyecto pretende
 convertir el espacio del Museo en un instrumento científico
 ubicado en el cruce específico planetario de Lat 6.2525, Lon
 -75.569167. Desde allí monitorearé con instrumentos científicos
@@ -25,7 +23,7 @@ meteoros. Será una interfaz más contemplativa que científica
 donde se presentarán en video los registros más significativos
 de las 72 horas de captura. Aves, aviones, truenos, satélites,
 ovnis(?) acompañados de los ruidos de la noche y del dia,
-lejanos y cercanos en el tiempo granular.
+lejanos y cercanos en el tiempo granular.**
 
 
 
