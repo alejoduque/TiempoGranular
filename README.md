@@ -1,4 +1,4 @@
-[<img src="https://github.com/alejoduque/TiempoGranular/blob/master/logo/tg_logo.png">(href=http://tiempogranular.radiolibre.cc)<br>
+[<img src="https://github.com/alejoduque/TiempoGranular/blob/master/logo/tg_logo.png">](href=http://tiempogranular.radiolibre.cc)
 
 **Polución lumínica, del ruido y el aire**
 
