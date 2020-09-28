@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/alejoduque/TiempoGranular/master/tg_logo.png?token=AAACXZMGZH2HPXASPKAVFMK7OILFU" /> <br>
-::::::::::::::::<a href=http://tiempogranular.radiolibre.cc> T I E M P O _ G R A N U L A R _</a> &
+:::::<a href=http://tiempogranular.radiolibre.cc> T I E M P O _ G R A N U L A R _</a>
 
-# TiempoGranular
-http://tiempogranular.radiolibre.cc
 
 To run:
 - install nodejs
