@@ -26,8 +26,32 @@ ovnis(?) acompañados de los ruidos de la noche y del dia,
 lejanos y cercanos en el tiempo granular.**
 
 
+La intención es montar una pequeña estación de monitoreo temporal (un fin de semana) en el
+patio central del Museo de Antioquia para recolectar datos durante 3 días, iniciando un
+viernes y terminando el lunes siguiente. Con una cámara que mira al cielo para intentar
+captar el paso de meteoros de marca Wattec y usada por experimentos de la NASA, se
+registrarán 72 horas en total de imágenes de video del cielo de la cuidad, tanto de día
+como de noche para ser contrastadas con la grabación digital acústica, usando un micrófono
+especial ambiental o de límite (boundary mic de AKG).
+Los niveles de ruido y de pm2.5 (material particulado) serán obtenidos con el sensor
+AQA creado con el colectivo un/loquer https://alejo.radiolibre.cc/ agentes-sensores
+
+
+
+
 
 **Web:**
+
+
+Una página web presentará en tiempo real los datos de la captura durante el fin de
+semana y posteriormente aparecerán en ella 10 video clips de entre 1 y 2 minutos con los
+momentos más relavantes sea por la calidad, textura, ritmo, cantos o picos en los datos.
+El sonido de los clips estará siempre compuesto por la captura de audio realizada 12
+horas antes del video, contrastando así el sonido ambiente opuesto a la hora a la que
+corresponden las imágenes de video. La noche tendrá el ruido del día, y el día, por el
+contrario, no tendrá el ruido típico sino el nocturno... el ladrido de un perro a la
+distancia, el llamado de su dueño o el canto de algún ave al amanecer.
+
 
 Usando software libre desarrollado sobre el software Hydra de Olivia Jackson:
 
