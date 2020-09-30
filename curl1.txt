@@ -1,0 +1,2 @@
+curl -G 'https://dbaqa.unloquer.org/query?pretty=true' --data-urlencode "db=_testsensorhumedad" --data-urlencode "q=SELECT mean(\"humidity\") AS \"mean_humidity\", mean(\"temperature\") AS \"mean_temperature\" FROM \"_testsensorhumedad\".\"autogen\".\"DHT11_Santa_Elena\" WHERE time > 30d AND \"id\"='DHT11_Santa_Elena' GROUP BY time(1m) FILL(none)"
+

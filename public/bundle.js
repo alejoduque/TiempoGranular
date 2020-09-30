@@ -71,6 +71,16 @@ function hydraBackground({ canvas, initialAnimationDuration }) {
       self.hydra.tick(dt)
   }).start()
 
+
+noise(10,10,0.5).out(o0)
+voronoi(5,10,20).out(o1)
+solid(20,0.1,0.8).out(o2)
+shape(200,0.1,0.8).out(o3)
+
+render()
+
+
+
 //  osc(80, 0.02, 1.4)
 //    .rotate(0.1, -0.008)
 //    .pixelate(50, 20)
@@ -96,14 +106,14 @@ function hydraBackground({ canvas, initialAnimationDuration }) {
 //a.settings[4].cutoff = 8
 //a.settings[5].cutoff = 9
 
-osc(322).color(0,0,0)
-.add(shape(2).color(2,2,2).scale(0.006).rotate(0.000001))
-.modulate(noise(()=> a.fft[1]*10 +0.01).scale(5,0.1))
-.scale(1.2,1,3)
-.scale(()=> a.fft[3]*0.1 -2)
-.repeat(1,1)
+//osc(322).color(0,0,0)
+//.add(shape(2).color(2,2,2).scale(0.006).rotate(0.000001))
+//.modulate(noise(()=> a.fft[1]*10 +0.01).scale(5,0.1))
+//.scale(1.2,1,3)
+//.scale(()=> a.fft[3]*0.1 -2)
+//.repeat(1,1)
 //.rotate(1,()=> a.fft[3]*1 +0.01)
-.out(o0)
+//.out(o0)
 
 
   setTimeout(() => this.engine.stop(), initialAnimationDuration)
