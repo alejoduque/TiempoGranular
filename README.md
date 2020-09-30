@@ -1,3 +1,5 @@
+![](https://i.giphy.com/media/08ww9J84x4p5OefxHe/giphy.webp)
+
 
 
 [![**Polución lumínica, del ruido y el aire**](https://github.com/alejoduque/TiempoGranular/blob/master/logo/tg_logo.png)](http://tiempogranular.radiolibre.cc)
