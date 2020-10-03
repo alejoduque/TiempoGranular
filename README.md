@@ -44,6 +44,8 @@ AQA creado con el colectivo un/loquer https://alejo.radiolibre.cc/ agentes-senso
 
 **Web:**
 
+https://tiempogranular.radiolibre.cc/
+
 
 Una página web presentará en tiempo real los datos de la captura durante el fin de
 semana y posteriormente aparecerán en ella 10 video clips de entre 1 y 2 minutos con los
